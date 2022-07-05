@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Alibaba-PuHuiTi-Heavy";
+    src: url("../src/Font/Alibaba-PuHuiTi-Heavy.otf");
+}
+
+@font-face {
+    font-family: "Alibaba-PuHuiTi-Regular";
+    src: url("../src/Font/Alibaba-PuHuiTi-Regular.otf");
+
+}
+@font-face {
+    font-family: "Chronicle Display Black";
+    src: url("../src/Font/Chronicle Display Black.otf");
+
+}
+@font-face {
+    font-family: "._Gilroy-ExtraBold";
+    src: url("../src/Font/._Gilroy-ExtraBold");
+
+}
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+    
+}
+body{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+
+    
+}

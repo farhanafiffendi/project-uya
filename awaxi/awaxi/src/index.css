@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #393F5F;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: "Alibaba-PuHuiTi-Heavy";
+  src: url("../src/Font/Alibaba-PuHuiTi-Heavy.otf");
+}
+
+@font-face {
+  font-family: "Alibaba-PuHuiTi-Regular";
+  src: url("../src/Font/Alibaba-PuHuiTi-Regular.otf");
+
+}
